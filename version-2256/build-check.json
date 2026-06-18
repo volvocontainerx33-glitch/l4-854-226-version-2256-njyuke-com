@@ -1,0 +1,20 @@
+{
+  "movie_count": 2000,
+  "detail_pages": 2000,
+  "html_pages": 2012,
+  "category_coverage": 2000,
+  "category_duplicate_count": 0,
+  "baidu_html_pages": 2012,
+  "jpg_files_in_output": 0,
+  "valid_m3u8_sources": 13,
+  "categories": {
+    "国产热剧": 250,
+    "日韩剧场": 250,
+    "欧美精选": 250,
+    "港台专区": 250,
+    "喜剧轻松": 250,
+    "悬疑惊悚": 250,
+    "动作冒险": 250,
+    "多元片库": 250
+  }
+}
